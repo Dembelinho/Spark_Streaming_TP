@@ -1,0 +1,35 @@
+Id,titre,description,service,date
+1,Medical Equipment Failure,Failure of critical medical equipment in ICU,Medical Services,2023-01-15
+2,Power Outage,Power outage affecting hospital operations,Facility Management,2023-02-28
+3,Patient Data Breach,Unauthorized access to patient data in Health Records,IT Healthcare,2023-03-12
+4,Surgical Procedure Delay,Delay in surgical procedures due to unforeseen circumstances,Surgery,2023-04-05
+5,Infection Outbreak,Outbreak of infectious disease in Hospital Ward,Infectious Diseases,2023-05-20
+6,Telecommunication Disruption,Communication disruption impacting coordination among hospital staff,Communication Services,2023-06-08
+7,Staff Shortage,Insufficient staffing levels impacting patient care,Human Resources,2023-07-12
+8,Pharmacy Error,Medication error identified in the hospital pharmacy,Pharmacy,2023-08-25
+9,Medical Waste Disposal Issue,Problem with medical waste disposal services,Environmental Services,2023-09-10
+10,Emergency Room Overcrowding,High patient volume leading to overcrowding in the Emergency Room,Emergency Services,2023-10-03
+11,Medical Records Misplacement,Misplacement of patient medical records,Health Information Management,2023-11-18
+12,Infrastructure Damage,Damage to hospital infrastructure due to natural disaster,Facility Management,2023-12-05
+13,Water Leakage,Water leakage affecting hospital premises,Facility Management,2024-01-20
+14,Computer System Failure,Hospital computer systems experiencing a critical failure,IT Healthcare,2024-02-08
+15,Transportation Delays,Delays in patient transportation services,Logistics,2024-03-15
+16,Fire Alarm Activation,Unplanned activation of fire alarm system,Emergency Services,2024-04-02
+17,Patient Allergy Reaction,Unexpected allergic reactions in patients,Medical Services,2024-05-10
+18,Visitor Disturbance,Disruption caused by unruly behavior of visitors,Security,2024-06-28
+19,Medical Supply Shortage,Shortage of essential medical supplies,Supply Chain,2024-07-14
+20,HVAC System Malfunction,Malfunction in the hospital's HVAC (Heating, Ventilation, and Air Conditioning) system,Facility Management,2024-08-30
+21,Lab Results Error,Error in laboratory test results impacting patient diagnoses,Laboratory Services,2024-09-18
+22,Infectious Disease Outbreak,Outbreak of a contagious disease in the hospital,Infectious Diseases,2024-10-12
+23,Patient Identification Error,Identification error leading to incorrect patient care,Health Information Management,2024-11-05
+24,Medical Staff Training Delay,Delay in medical staff training sessions impacting skill development,Human Resources,2024-12-20
+25,Patient Fall Incident,Incident involving a patient falling and sustaining injuries,Medical Services,2025-01-10
+26,Visitor Health Emergency,Visitor experiencing a health emergency within hospital premises,Emergency Services,2025-02-25
+27,Medical Gas Supply Disruption,Disruption in the supply of essential medical gases,Supply Chain,2025-03-12
+28,CT Scanner Malfunction,Malfunction in the hospital's CT scanner impacting diagnostic procedures,Medical Imaging,2025-04-05
+29,Food Contamination,Contamination of hospital cafeteria food,Food Services,2025-05-20
+30,Physical Assault,Physical assault incident within the hospital,Security,2025-06-08
+31,Maternity Ward Capacity Exceeded,Exceeding capacity in the maternity ward,Maternity Services,2025-07-12
+32,Chemical Spill,Accidental spill of chemicals in a hospital laboratory,Environmental Services,2025-08-25
+33,Operating Room Equipment Failure,Failure of critical equipment in the operating room,Surgery,2025-09-10
+34,Medical Billing Error,Error in patient billing causing financial discrepancies,Finance,2025-10-03
